@@ -1,1 +1,1 @@
-# this is the riginal file
+# this is the original file
